@@ -25,7 +25,7 @@ No UI is available for this app so you need to use the Task service to manage yo
 GET /task 
 # Create task
 POST /task
-# Update task
+# Close task
 PUT /task
 # Cancel task
 DELETE /task
